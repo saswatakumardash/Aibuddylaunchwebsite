@@ -57,7 +57,7 @@ AI Buddy is a revolutionary AI assistant launching in December 2025 that combine
 
 ## 🌐 Live Demo
 
-Visit our [live demo](https://aibuddy-launch.netlify.app) to experience AI Buddy firsthand.
+Visit our [live demo](https://aibuddybyskd.netlify.app/) to experience AI Buddy firsthand.
 
 ## 📞 Contact
 
